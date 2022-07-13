@@ -3,7 +3,7 @@
 [![Krzysztof, ReactJS-Developer](https://assets.selleo.com/banners/kpoziomek.svg)](https://selleo.com/)
 
 
-#### Skills: VUE JS / REACT / JS / HTML / CSS
+#### Skills:  REACT / VUE JS / JS / HTML / CSS
 
 - 📫 How to reach me: hello@selleo.com 
 
