@@ -2,11 +2,11 @@
 
 [![Krzysztof, ReactJS-Developer](https://assets.selleo.com/banners/kpoziomek.svg)](https://selleo.com/)
 
-I specialize in Front-End development and believe JavaScript is a base for the world of frameworks like React or Vue.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 📫 How to reach me: hello@selleo.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/krzysztof-poziomek-501a45b4/)  
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kPoziomek)](https://github.com/anuraghazra/github-readme-stats)
